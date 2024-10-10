@@ -22,10 +22,10 @@ return array (
   ),
   7112767513 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241030',
-    'uid' => '1',
-    'getUID' => '77562de8f45444138e0f3f7ea20d0ec6',
+    'uid' => '10003',
+    'getUID' => '1adca627a547476297bc79d0d8973d1f',
     'brand' => 'Xiaomi',
     'model' => '22081212UG',
     'ip' => 1,
