@@ -20,4 +20,14 @@ return array (
     'model' => 'no',
     'ip' => 1,
   ),
+  7112767513 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241030',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
