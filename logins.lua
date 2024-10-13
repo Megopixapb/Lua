@@ -20,14 +20,4 @@ return array (
     'model' => 'no',
     'ip' => 1,
   ),
-  7112767513 => 
-  array (
-    'password' => 'updated_password',
-    'expiry' => '20241030',
-    'uid' => '10003',
-    'getUID' => '2bcd71feccc54fc0887f12ca720de15b',
-    'brand' => 'Xiaomi',
-    'model' => '22081212UG',
-    'ip' => '1d4c3cdf9a3add53',
-  ),
 );
