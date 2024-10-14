@@ -1,15 +1,5 @@
 <?php
 return array (
-  6423477344 => 
-  array (
-    'password' => 'updated_password',
-    'expiry' => '20241030',
-    'uid' => '10002',
-    'getUID' => '9d63d99046f242c68ebbec2719a75813',
-    'brand' => 'Xiaomi',
-    'model' => '21081111RG',
-    'ip' => 1,
-  ),
   7112767513 => 
   array (
     'password' => 'updated_password',
