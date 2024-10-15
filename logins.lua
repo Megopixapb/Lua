@@ -10,16 +10,6 @@ return array (
     'model' => 'SM-S908E',
     'ip' => '2693f63649e6fbb1',
   ),
-  6423477344 => 
-  array (
-    'password' => 'updated_password',
-    'expiry' => '20241130',
-    'uid' => '10002',
-    'getUID' => 'd3285440045b43a28774a34fcf1819be',
-    'brand' => 'Xiaomi',
-    'model' => '21081111RG',
-    'ip' => 'no',
-  ),
   7112767513 => 
   array (
     'password' => 'first_run',
