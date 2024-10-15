@@ -22,9 +22,9 @@ return array (
   ),
   6423477344 => 
   array (
-    'password' => 'updated_password',
+    'password' => 'first_run',
     'expiry' => '20241130',
-    'uid' => '10002',
+    'uid' => '1',
     'getUID' => 'fadfe6555a6447e8a03bd30525f69d73',
     'brand' => 'Xiaomi',
     'model' => '21081111RG',
