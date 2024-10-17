@@ -12,9 +12,9 @@ return array (
   ),
   7112767513 => 
   array (
-    'password' => 'updated_password',
+    'password' => 'first_run',
     'expiry' => '20241130',
-    'uid' => '10002',
+    'uid' => '1',
     'getUID' => 'd25b64814d9443d39a8764853044db16',
     'brand' => 'samsung',
     'model' => 'SM-G960F',
