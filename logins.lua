@@ -32,12 +32,12 @@ return array (
   ),
   1083605835 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241117',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => 'dd867c3a6c6a45b2a639767b7af75136',
+    'brand' => 'POCO',
+    'model' => '2201116PG',
+    'ip' => 'c9d1dfb4bf2871cd',
   ),
 );
