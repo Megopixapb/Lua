@@ -13,7 +13,7 @@ return array (
   7112767513 => 
   array (
     'password' => 'first_run',
-    'expiry' => '20241130',
+    'expiry' => '20241017',
     'uid' => '1',
     'getUID' => 'd25b64814d9443d39a8764853044db16',
     'brand' => 'samsung',
