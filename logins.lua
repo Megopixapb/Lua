@@ -12,13 +12,13 @@ return array (
   ),
   7112767513 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241017',
-    'uid' => '1',
-    'getUID' => 'd25b64814d9443d39a8764853044db16',
-    'brand' => 'samsung',
-    'model' => 'SM-G960F',
-    'ip' => 'b5e3f6adf58bf702',
+    'uid' => '10003',
+    'getUID' => 'e6a38f008d8c473886e51dd3511db933',
+    'brand' => 'Xiaomi',
+    'model' => '22081212UG',
+    'ip' => '1d4c3cdf9a3add53',
   ),
   6423477344 => 
   array (
