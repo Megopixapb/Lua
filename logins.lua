@@ -42,13 +42,13 @@ return array (
   ),
   1792360513 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10004',
+    'getUID' => '7e4f30a676eb4904bbc3e686438d8a92',
+    'brand' => 'HUAWEI',
+    'model' => 'MAR-AL00',
+    'ip' => 'd19732cd29559a36',
   ),
   6336807961 => 
   array (
