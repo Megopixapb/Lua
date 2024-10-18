@@ -82,13 +82,13 @@ return array (
   ),
   6836071320 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10027',
+    'getUID' => 'eb1200d8373a4e9ca4deaa45bc846469',
+    'brand' => 'google',
+    'model' => 'Nexus 5',
+    'ip' => '8877292f0d59937f',
   ),
   5989749815 => 
   array (
