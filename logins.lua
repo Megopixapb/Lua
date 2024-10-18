@@ -110,4 +110,14 @@ return array (
     'model' => 'SM-A055F',
     'ip' => '6e13fb88b4ecba79',
   ),
+  5805601867 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241118',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
