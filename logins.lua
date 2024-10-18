@@ -60,4 +60,14 @@ return array (
     'model' => '2311DRK48G',
     'ip' => '30aef241fccc8e13',
   ),
+  1674536059 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241118',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
