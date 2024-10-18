@@ -120,4 +120,14 @@ return array (
     'model' => 'TECNO LG8n',
     'ip' => 'ae67476269bbdf92',
   ),
+  1341634437 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241118',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
