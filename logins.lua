@@ -100,16 +100,6 @@ return array (
     'model' => 'no',
     'ip' => 'no',
   ),
-  6496320018 => 
-  array (
-    'password' => 'updated_password',
-    'expiry' => '20241118',
-    'uid' => '10002',
-    'getUID' => '79815ad4ad5c438696311e8c733f7d19',
-    'brand' => 'samsung',
-    'model' => 'SM-A055F',
-    'ip' => '6e13fb88b4ecba79',
-  ),
   5805601867 => 
   array (
     'password' => 'updated_password',
