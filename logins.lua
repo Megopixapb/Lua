@@ -110,4 +110,14 @@ return array (
     'model' => '220333QAG',
     'ip' => 'a1008fd7f097f1de',
   ),
+  5292656712 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241118',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
