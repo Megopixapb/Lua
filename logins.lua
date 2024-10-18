@@ -92,13 +92,13 @@ return array (
   ),
   5989749815 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10063',
+    'getUID' => 'bb381a24008f41b0a81e70a2a67b49c8',
+    'brand' => 'samsung',
+    'model' => 'SM-G998B',
+    'ip' => '15c735afbfd24378',
   ),
   5805601867 => 
   array (
