@@ -122,12 +122,12 @@ return array (
   ),
   1341634437 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => '0df20b56b39e4aabb18619778390dde3',
+    'brand' => 'xiaomi',
+    'model' => 'Redmi Note 7',
+    'ip' => '68bb47759a661bf0',
   ),
 );
