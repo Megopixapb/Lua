@@ -80,4 +80,14 @@ return array (
     'model' => 'SM-A145F',
     'ip' => 'd4fe06a9e8dc8f7f',
   ),
+  6836071320 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241118',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
