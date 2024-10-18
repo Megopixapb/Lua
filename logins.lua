@@ -52,12 +52,12 @@ return array (
   ),
   6336807961 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => 'b7f9ef67ff544854a57e7e7a346dcbfa',
+    'brand' => 'POCO',
+    'model' => '2311DRK48G',
+    'ip' => '30aef241fccc8e13',
   ),
 );
