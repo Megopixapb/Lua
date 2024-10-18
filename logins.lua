@@ -72,12 +72,12 @@ return array (
   ),
   6999089790 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241102',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10005',
+    'getUID' => 'dcd2c1e962354d319b06ce9583bf8464',
+    'brand' => 'samsung',
+    'model' => 'SM-A145F',
+    'ip' => 'd4fe06a9e8dc8f7f',
   ),
 );
