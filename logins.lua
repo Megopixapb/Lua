@@ -112,12 +112,12 @@ return array (
   ),
   5292656712 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => '764138c3f9334d7887d5263d94c7a312',
+    'brand' => 'TECNO',
+    'model' => 'TECNO LG8n',
+    'ip' => 'ae67476269bbdf92',
   ),
 );
