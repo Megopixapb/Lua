@@ -34,7 +34,7 @@ return array (
   array (
     'password' => 'updated_password',
     'expiry' => '20241117',
-    'uid' => '10002',
+    'uid' => '10001',
     'getUID' => 'dd867c3a6c6a45b2a639767b7af75136',
     'brand' => 'POCO',
     'model' => '2201116PG',
