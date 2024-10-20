@@ -130,4 +130,14 @@ return array (
     'model' => 'Redmi Note 7',
     'ip' => '68bb47759a661bf0',
   ),
+  7053404016 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241120',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
