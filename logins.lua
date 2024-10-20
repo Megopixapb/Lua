@@ -132,12 +132,12 @@ return array (
   ),
   7053404016 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241120',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => '47636b6363854eda84a36c6761a73d94',
+    'brand' => 'Redmi',
+    'model' => '22101316I',
+    'ip' => 'dc0ddb0fa094bc7c',
   ),
 );
