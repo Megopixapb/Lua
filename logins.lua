@@ -202,12 +202,12 @@ return array (
   ),
   1499701908 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241121',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10003',
+    'getUID' => '3bc2e6cbfade4bd8b921371a9ce99c56',
+    'brand' => 'HONOR',
+    'model' => 'BKL-L09',
+    'ip' => '8e6f414a9376f452',
   ),
 );
