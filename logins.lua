@@ -200,4 +200,14 @@ return array (
     'model' => 'RMX3710',
     'ip' => 'e77b77209fa2cced',
   ),
+  1499701908 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241121',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
