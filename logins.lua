@@ -182,12 +182,12 @@ return array (
   ),
   7330178458 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241121',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => 'a4b574eb4aa44e4c903898f740a03b92',
+    'brand' => 'Redmi',
+    'model' => 'M2004J19C',
+    'ip' => '7328fbcd6df12c61',
   ),
 );
