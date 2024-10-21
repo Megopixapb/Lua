@@ -190,4 +190,14 @@ return array (
     'model' => 'M2004J19C',
     'ip' => '7328fbcd6df12c61',
   ),
+  715594841 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241121',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
