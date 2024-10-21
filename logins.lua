@@ -192,12 +192,12 @@ return array (
   ),
   715594841 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241121',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10001',
+    'getUID' => 'e37ddfac8ca34336bb82eac119412f77',
+    'brand' => 'realme',
+    'model' => 'RMX3710',
+    'ip' => 'e77b77209fa2cced',
   ),
 );
