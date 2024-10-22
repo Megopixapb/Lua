@@ -222,12 +222,12 @@ return array (
   ),
   5221130760 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241122',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10001',
+    'getUID' => 'eac764c0acf64562a3893e54b4b98e74',
+    'brand' => 'HONOR',
+    'model' => 'CRT-NX1',
+    'ip' => 'a2e26ec3edd28fa6',
   ),
 );
