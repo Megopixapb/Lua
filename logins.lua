@@ -212,13 +212,13 @@ return array (
   ),
   6571992547 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241122',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10001',
+    'getUID' => '23d6ee3377104279ba624a57896201a4',
+    'brand' => 'samsung',
+    'model' => 'SM-A336E',
+    'ip' => '3c60413e77b3c36b',
   ),
   5221130760 => 
   array (
