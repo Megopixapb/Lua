@@ -210,4 +210,14 @@ return array (
     'model' => 'BKL-L09',
     'ip' => '8e6f414a9376f452',
   ),
+  6571992547 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241122',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
