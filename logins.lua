@@ -232,12 +232,12 @@ return array (
   ),
   7875382811 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241123',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10001',
+    'getUID' => '669d73dff1ea4a4da54452fec5df541d',
+    'brand' => 'realme',
+    'model' => 'RMX3661',
+    'ip' => 'f5f8db66d837e4d',
   ),
 );
