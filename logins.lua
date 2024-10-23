@@ -230,4 +230,14 @@ return array (
     'model' => 'CRT-NX1',
     'ip' => 'a2e26ec3edd28fa6',
   ),
+  7875382811 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241123',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
