@@ -242,12 +242,12 @@ return array (
   ),
   5339714956 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241026',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10002',
+    'getUID' => '444ecede44914752acf834c3749e6c6e',
+    'brand' => 'Redmi',
+    'model' => '23021RAA2Y',
+    'ip' => 'e17928dee3e0e3fb',
   ),
 );
