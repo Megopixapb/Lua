@@ -243,7 +243,7 @@ return array (
   5339714956 => 
   array (
     'password' => 'updated_password',
-    'expiry' => '20241026',
+    'expiry' => '20241010',
     'uid' => '10003',
     'getUID' => '444ecede44914752acf834c3749e6c6e',
     'brand' => 'Redmi',
