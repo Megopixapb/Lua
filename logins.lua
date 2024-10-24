@@ -142,10 +142,10 @@ return array (
   ),
   740600677 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241120',
-    'uid' => '1',
-    'getUID' => '57672a077dfd473b8f1f30cba2df7753',
+    'uid' => '10002',
+    'getUID' => 'd9a93272fdcf43cba12cc8d79127beaf',
     'brand' => 'POCO',
     'model' => '23049PCD8G',
     'ip' => '9b3d50c1d5f6398f',
