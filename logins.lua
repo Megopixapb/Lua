@@ -82,13 +82,13 @@ return array (
   ),
   6836071320 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'eb1200d8373a4e9ca4deaa45bc846469',
-    'brand' => 'google',
-    'model' => 'Nexus 5',
-    'ip' => '8877292f0d59937f',
+    'uid' => '10041',
+    'getUID' => 'faa371b8f16d42e1aa8aff45ae3035aa',
+    'brand' => 'POCO',
+    'model' => '21121210G',
+    'ip' => '4a7fbd628448cc67',
   ),
   5989749815 => 
   array (
