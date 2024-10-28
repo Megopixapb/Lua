@@ -252,12 +252,12 @@ return array (
   ),
   6758320810 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241030',
-    'uid' => '1',
-    'getUID' => 'no',
-    'brand' => 'no',
-    'model' => 'no',
-    'ip' => 'no',
+    'uid' => '10004',
+    'getUID' => '234668e43a18455c8162fbe0dbbcb1b0',
+    'brand' => 'samsung',
+    'model' => 'SM-A520F',
+    'ip' => 'b5e3f6adf58bf702',
   ),
 );
