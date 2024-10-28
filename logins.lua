@@ -250,14 +250,4 @@ return array (
     'model' => '23021RAA2Y',
     'ip' => 'e17928dee3e0e3fb',
   ),
-  6758320810 => 
-  array (
-    'password' => 'updated_password',
-    'expiry' => '20241030',
-    'uid' => '10004',
-    'getUID' => '234668e43a18455c8162fbe0dbbcb1b0',
-    'brand' => 'samsung',
-    'model' => 'SM-A520F',
-    'ip' => 'b5e3f6adf58bf702',
-  ),
 );
