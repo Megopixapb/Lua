@@ -2,13 +2,13 @@
 return array (
   6699698602 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241130',
-    'uid' => '1',
-    'getUID' => 'e5081895ce5c4249957918de17a6c19a',
+    'uid' => '10140',
+    'getUID' => 'a093c3a2494f482bb1b0cc86cc751645',
     'brand' => 'samsung',
     'model' => 'SM-S908E',
-    'ip' => '2693f63649e6fbb1',
+    'ip' => 'a86b5422dfa9dfa6',
   ),
   7112767513 => 
   array (
