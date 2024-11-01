@@ -250,4 +250,14 @@ return array (
     'model' => '23021RAA2Y',
     'ip' => 'e17928dee3e0e3fb',
   ),
+  999 => 
+  array (
+    'password' => 'first_run',
+    'expiry' => '20241111',
+    'uid' => '1',
+    'getUID' => 'no',
+    'brand' => 'no',
+    'model' => 'no',
+    'ip' => 'no',
+  ),
 );
