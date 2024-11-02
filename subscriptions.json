@@ -1,32 +1,17 @@
 {
-    "7112767513": {
-        "type": "subscription.created",
-        "expiredAt": "20241102",
-        "status": "active",
-        "tgId": 7112767513,
-        "tgUsername": "Alexcemenov2023",
-        "tgFirstName": "Alex",
-        "tgLastName": "Mego",
-        "run": "updated_run",
-        "uid": "10002",
-        "getUID": "344357b9433b460aaa21e54b179557fa",
-        "brand": "Xiaomi",
-        "model": "22081212UG",
-        "ip": "1d4c3cdf9a3add53"
-    },
-    "337750725": {
-        "type": "subscription.created",
-        "expiredAt": "20241102",
-        "status": "active",
-        "tgId": 337750725,
-        "tgUsername": "Alex_Cemenov",
-        "tgFirstName": "Gorshkov",
-        "tgLastName": "Alex",
-        "run": "first_run",
-        "uid": "1",
-        "getUID": "no",
-        "brand": "no",
-        "model": "no",
-        "ip": "no"
+    '337750725': {
+        'type': 'subscription.created',
+        'expiredAt': '20241102',
+        'status': 'active',
+        'tgId': 337750725,
+        'tgUsername': 'Alex_Cemenov',
+        'tgFirstName': 'Gorshkov',
+        'tgLastName': 'Alex',
+        'run': 'first_run',
+        'uid': '1',
+        'getUID': 'no',
+        'brand': 'no',
+        'model': 'no',
+        'ip': 'no'
     }
 }
