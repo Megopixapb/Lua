@@ -82,13 +82,13 @@ return array (
   ),
   6836071320 => 
   array (
-    'password' => 'first_run',
+    'password' => 'updated_password',
     'expiry' => '20241118',
-    'uid' => '1',
-    'getUID' => 'faa371b8f16d42e1aa8aff45ae3035aa',
+    'uid' => '10001',
+    'getUID' => '95d0c03b56ae4d7cbb027fe69e7f80b0',
     'brand' => 'POCO',
     'model' => '21121210G',
-    'ip' => '4a7fbd628448cc67',
+    'ip' => '324ddcfda2e112fa',
   ),
   5989749815 => 
   array (
