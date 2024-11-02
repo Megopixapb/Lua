@@ -1,0 +1,17 @@
+{
+    "337750725": {
+        "type": "subscription.created",
+        "expiredAt": "20241102",
+        "status": "active",
+        "tgId": 337750725,
+        "tgUsername": "Alex_Cemenov",
+        "tgFirstName": "Gorshkov",
+        "tgLastName": "Alex",
+        "run": "first_run",
+        "uid": "1",
+        "getUID": "no",
+        "brand": "no",
+        "model": "no",
+        "ip": "no"
+    }
+}
