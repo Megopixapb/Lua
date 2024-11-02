@@ -7,12 +7,12 @@
         "tgUsername": "Alexcemenov2023",
         "tgFirstName": "Alex",
         "tgLastName": "Mego",
-        "run": "first_run",
-        "uid": "1",
-        "getUID": "no",
-        "brand": "no",
-        "model": "no",
-        "ip": "no"
+        "run": "updated_run",
+        "uid": "10002",
+        "getUID": "c43968a05ed049ebb18cd22a74683134",
+        "brand": "Xiaomi",
+        "model": "22081212UG",
+        "ip": "1d4c3cdf9a3add53"
     },
     "337750725": {
         "type": "subscription.created",
