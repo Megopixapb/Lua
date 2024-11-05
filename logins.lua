@@ -24,7 +24,7 @@ return array (
   array (
     'password' => 'updated_password',
     'expiry' => '20241130',
-    'uid' => '10002',
+    'uid' => '10005',
     'getUID' => 'fd4f13e42ca34181a51e2fbd71d1126f',
     'brand' => 'Xiaomi',
     'model' => '21081111RG',
