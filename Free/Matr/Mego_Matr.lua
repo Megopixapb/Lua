@@ -1,1 +1,1 @@
-gg.alarm("yyyyyyeesss")
+gg.alert("yyyyyyeesss")
