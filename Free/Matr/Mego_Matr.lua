@@ -1,1 +1,1 @@
-gg.alert("yyyyyyeesss")
+gg.alert("есть")
