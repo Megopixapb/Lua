@@ -1,5 +1,5 @@
 
-if good ~= "26022602" then
+if good ~= "26022602" and negood ~= "hiJ8655HRbkgdjN76" then
 gg.alert("хуй тебе")
 file.delete(app.cacheHidden, file.TYPE_ALL)
 os.exit() 
